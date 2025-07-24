@@ -44,6 +44,7 @@ My main work at present is developing a remote sensing foundation model called [
 **Zhengpeng Feng**, Sadiq Jaffer, Jovana Knezevic, Silja Sormunen, Robin Young, Madeline Lisaius, Markus Immitzer, James Ball, Clement Atzberger, David A. Coomes, Anil Madhavapeddy, Andrew Blake, Srinivasan Keshav
 
 - We trained a 14B model to extract time-series spectral features from satellite images.
+- We are releasing 2.5PB of global 10m-resolution earth embeddings from 2017-2025.
 </div>
 </div>
 
@@ -54,7 +55,7 @@ My main work at present is developing a remote sensing foundation model called [
 
 **Zhengpeng Feng**, Yihang She, Srinivasan Keshav
 
-- We used Unreal Engine 5 to create the most realistic synthetic data for 2D and 3D vision tasks in forests.
+- We used Unreal Engine 5 to create the super realistic synthetic data for 2D and 3D vision tasks in forests.
 </div>
 </div>
 
@@ -65,7 +66,9 @@ My main work at present is developing a remote sensing foundation model called [
 
 **Zhengpeng Feng**, Mingyue Xie, Amelia Holcomb, Srinivasan Keshav
 
-- My first paper, an app for tree trunk diameter estimation.
+- An app for fast in-situ tree trunk diameter estimation.
+- The app won the Cambridge Ring Better Future Award!
+- [More](https://www.cst.cam.ac.uk/using-ai-see-wood-trees) about the app
 </div>
 </div>
 
