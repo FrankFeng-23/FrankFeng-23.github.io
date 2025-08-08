@@ -45,6 +45,7 @@ My main work at present is developing a remote sensing foundation model called [
 
 - We trained a 14B model to extract time-series spectral features from satellite images.
 - We are releasing 2.5PB of global 10m-resolution earth embeddings from 2017-2025.
+- Submitted to _**Science Advances**_ (under review)
 </div>
 </div>
 
