@@ -25,10 +25,15 @@ I am also the co-founder and president of the [China Artificial Intelligence Ass
 
 My main work at present is developing a remote sensing foundation model called [TESSERA](https://github.com/ucam-eo/tessera). We have found some exciting results. We were recently recruiting for an [RA position](https://www.jobs.cam.ac.uk/job/51742/) to create a global habitat map using TESSERA. (The position has been filled, but we welcome any informal chat at zf281@cam.ac.uk if you are interested).
 
+We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n), the fastest artificial intelligence supercomputer at Cambridge, for their generous support in this project. We also acknowledge the support from [AMD](https://www.amd.com/en.html), [Vultr](https://www.vultr.com/), [Microsoft AI For Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/), [dClimate](https://www.dclimate.net/), and [Amazon Web Services (AWS)](https://aws.amazon.com/). This work would not have been possible without their computational resources and technical assistance.
+
 
 # 🔥 News
-- *2025.07*:  🎉🎉 We have open-sourced the inference code for [TESSERA](https://github.com/ucam-eo/tessera?tab=readme-ov-file) and the code for using embeddings in downstream tasks ([GeoTessera](https://github.com/ucam-eo/geotessera)). We will be rolling out a global 10m resolution annual embedding product in the coming months.
-- *2025.06*:  🎉🎉 We have released the preprint of our latest work, [TESSERA](https://arxiv.org/abs/2506.20380). We trained a 14B model to extract time-series spectral features from satellite images.
+- *2025.12*:  🎉🎉 I was honored to be invited by IEEE GRSS to give a talk about TESSERA. Information and recording can be found [here](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/).
+- *2025.11*:  🎉🎉 I was invited as a keynote speaker to the Open-Earth-Monitor Global Workshop 2026, which will be held in Barcelona, Spain, from 7–9 October 2026. The event is co-hosted by CREAF and the OpenGeoHub Foundation under the Open-Earth-Monitor-Cyberinfrastructure (OEMC) project.
+- *2025.09*:  🎉🎉 I was honored to participate in the 13th Heidelberg Laureate Forum as a young researcher and presented the TESSERA work ([Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/)).
+- *2025.07*:  🎉🎉 We have open-sourced the inference code for [TESSERA](https://github.com/ucam-eo/tessera?tab=readme-ov-file) and the code for using embeddings in downstream tasks ([GeoTessera](https://github.com/ucam-eo/geotessera)). We will be rolling out a global 10m resolution annual embedding product in the coming months.
+- *2025.06*:  🎉🎉 We have released the preprint of our latest work, [TESSERA](https://arxiv.org/abs/2506.20380). We trained a 14B model to extract time-series spectral features from satellite images.
 - *2025.03*:  🎉🎉 Our app, GreenLens, won the [Better Future Award](https://www.cst.cam.ac.uk/using-ai-see-wood-trees) from the Cambridge Ring!
 - *2025.02*:  🎉🎉 We published "SPREAD: A large-scale, high-fidelity synthetic dataset for multiple forest vision tasks" in Ecological Informatics. We used Unreal Engine 5 to create the most realistic synthetic data for 2D and 3D vision tasks in forests.
 - *2024.10*:  🎉🎉 I am thrilled to be fully funded to join the EEG, Department of Computer Science and Technology, University of Cambridge, as a PhD student.
@@ -41,11 +46,11 @@ My main work at present is developing a remote sensing foundation model called [
 
 [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](https://arxiv.org/abs/2506.20380)
 
-**Zhengpeng Feng**, Sadiq Jaffer, Jovana Knezevic, Silja Sormunen, Robin Young, Madeline Lisaius, Markus Immitzer, James Ball, Clement Atzberger, David A. Coomes, Anil Madhavapeddy, Andrew Blake, Srinivasan Keshav
+**Zhengpeng Feng**, Clement Atzberger, Sadiq Jaffer, Jovana Knezevic, Silja Sormunen, Robin Young, Madeline C. Lisaius, Markus Immitzer, Toby Jackson, James Ball, David A. Coomes, Anil Madhavapeddy, Andrew Blake, Srinivasan Keshav
 
-- We trained a 14B model to extract time-series spectral features from satellite images.
+- We trained a 1.4B model to extract time-series spectral features from satellite images.
 - We are releasing 2.5PB of global 10m-resolution earth embeddings from 2017-2025.
-- Submitted to _**Science Advances**_ (under review)
+- TESSERA is gaining increasing attention, with our GitHub repositories reaching over 500 stars combined.
 </div>
 </div>
 
@@ -74,6 +79,7 @@ My main work at present is developing a remote sensing foundation model called [
 </div>
 
 # 🎖 Honors and Awards
+- *2025.09* Heidelberg Laureate Forum Young Researcher
 - *2025.03* Cambridge Ring Better Future Award
 - *2024.06* Robert Sansom Studentship
 - *2022.12* The Most Outstanding Students Award of UESTC (top 10)
@@ -86,6 +92,9 @@ My main work at present is developing a remote sensing foundation model called [
 - *2019.09 - 2023.06*, B.Eng. in Spatial Informatics and Digitalized Technology, University of Electronic Science and Technology of China (UESTC).
 
 # 💬 Invited Talks
+- *2025.12*, TESSERA: Precomputed Fair Global Pixel Embeddings for Earth Representation and Analysis, IEEE GRSS. | [\[link\]](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/)
+- *2025.12*, TESSERA, RISE. | [\[video\]](https://www.youtube.com/watch?v=AQhzSBxvhVM)
+- *2025.10*, TESSERA, GEDI Group, University of Maryland. | [\[link\]](https://gedi.umd.edu/mission/mission-team/)
 - *2024.06*, An App for Tree Trunk Diameter Estimation from Coarse Optical Depth Maps. | [\[video\]](https://www.youtube.com/watch?v=ePLKoPkt_CA)
 
 # 💻 Supervisions
