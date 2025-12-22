@@ -92,7 +92,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 - *2019.09 - 2023.06*, B.Eng. in Spatial Informatics and Digitalized Technology, University of Electronic Science and Technology of China (UESTC).
 
 # 💬 Invited Talks
-- *2025.12*, TESSERA: Precomputed Fair Global Pixel Embeddings for Earth Representation and Analysis, IEEE GRSS. | [\[link\]](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/)
+- *2025.12*, TESSERA: Precomputed Fair Global Pixel Embeddings for Earth Representation and Analysis, IEEE GRSS. | [\[link\]](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/) 
 - *2025.12*, TESSERA, RISE. | [\[video\]](https://www.youtube.com/watch?v=AQhzSBxvhVM)
 - *2025.10*, TESSERA, GEDI Group, University of Maryland. | [\[link\]](https://gedi.umd.edu/mission/mission-team/)
 - *2024.06*, An App for Tree Trunk Diameter Estimation from Coarse Optical Depth Maps. | [\[video\]](https://www.youtube.com/watch?v=ePLKoPkt_CA)
