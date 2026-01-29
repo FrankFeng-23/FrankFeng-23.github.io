@@ -21,7 +21,7 @@ I graduated from the University of Electronic Science and Technology of China (U
 
 My research interest lies at the intersection of AI and Earth Science. I am particularly interested in developing Self-Supervised Learning (SSL) algorithms for remote sensing imagery.
 
-I am also the co-founder and president of the [China Artificial Intelligence Association (Cambridge)](https://www.cambridgesu.co.uk/organisation/26373/). We are dedicated to creating a platform for AI communication that integrates academia and industry, connecting universities in China and the UK to build a cross-national AI talent ecosystem.
+I am also the co-founder and president of the [China Artificial Intelligence Association (Cambridge)](https://www.cambridgesu.co.uk/organisation/26373/). We are dedicated to creating a platform for AI communication that integrates academia and industry, connecting universities in China and the UK to build a cross-national AI talent ecosystem. 
 
 My main work at present is developing a remote sensing foundation model called [TESSERA](https://github.com/ucam-eo/tessera). We have found some exciting results. We were recently recruiting for an [RA position](https://www.jobs.cam.ac.uk/job/51742/) to create a global habitat map using TESSERA. (The position has been filled, but we welcome any informal chat at zf281@cam.ac.uk if you are interested). 
 
