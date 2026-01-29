@@ -31,6 +31,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 
 
 # 🔥 News
+- *2026.01*:  🎉🎉 I was honored to be invited to the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/) (to be held in Geneva, Switzerland, in July 2026), where I will present TESSERA-related works.
 - *2025.12*:  🎉🎉 I was honored to be invited by IEEE GRSS to give a talk about TESSERA. Information and recording can be found [here](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/).
 - *2025.11*:  🎉🎉 I was invited as a keynote speaker to the Open-Earth-Monitor Global Workshop 2026, which will be held in Barcelona, Spain, from 7–9 October 2026. The event is co-hosted by CREAF and the OpenGeoHub Foundation under the Open-Earth-Monitor-Cyberinfrastructure (OEMC) project.
 - *2025.09*:  🎉🎉 I was honored to participate in the 13th Heidelberg Laureate Forum as a young researcher and presented the TESSERA work ([Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/)).
@@ -48,11 +49,13 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 
 [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](https://arxiv.org/abs/2506.20380)
 
+[[**Tessera**]](https://github.com/ucam-eo/tessera)![](https://img.shields.io/github/stars/ucam-eo/tessera?style=social)&nbsp;&nbsp;&nbsp;[[**GeoTessera**]](https://github.com/ucam-eo/geotessera)![](https://img.shields.io/github/stars/ucam-eo/geotessera?style=social)&nbsp;&nbsp;&nbsp;![PyPiVersion](https://img.shields.io/pypi/v/geotessera?label=PyPI%20version&color=blue)&nbsp;&nbsp;&nbsp;![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 **Zhengpeng Feng**, Clement Atzberger, Sadiq Jaffer, Jovana Knezevic, Silja Sormunen, Robin Young, Madeline C. Lisaius, Markus Immitzer, Toby Jackson, James Ball, David A. Coomes, Anil Madhavapeddy, Andrew Blake, Srinivasan Keshav
 
 - We trained a 1.4B model to extract time-series spectral features from satellite images.
 - We are releasing 2.5PB of global 10m-resolution earth embeddings from 2017-2025.
-- TESSERA is gaining increasing attention, with our GitHub repositories reaching over 500 stars combined.
+- Researchers from over 50 groups worldwide are using TESSERA.
 </div>
 </div>
 
@@ -60,6 +63,8 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 <div class='paper-box-text' markdown="1">
 
 [SPREAD: A large-scale, high-fidelity synthetic dataset for multiple forest vision tasks](https://www.sciencedirect.com/science/article/pii/S1574954125000949)
+
+[[**Code**]](https://github.com/FrankFeng-23/SPREAD) ![](https://img.shields.io/github/stars/FrankFeng-23/SPREAD?style=social)&nbsp;&nbsp;&nbsp;![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **Zhengpeng Feng**, Yihang She, Srinivasan Keshav
 
@@ -71,6 +76,8 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 <div class='paper-box-text' markdown="1">
 
 [An app for tree trunk diameter estimation from coarse optical depth maps](https://www.sciencedirect.com/science/article/pii/S1574954124003169)
+
+[[**Code**]](https://github.com/MingyueX/GreenLens) ![](https://img.shields.io/github/stars/MingyueX/GreenLens?style=social)&nbsp;&nbsp;&nbsp;![License](https://img.shields.io/badge/License-MIT-blue.svg)&nbsp;&nbsp;&nbsp;[[**APK**]](https://drive.google.com/drive/u/0/folders/17-Yu3KXcgJiFapGc2AjJ2dHNC30YUbup)
 
 **Zhengpeng Feng**, Mingyue Xie, Amelia Holcomb, Srinivasan Keshav
 
