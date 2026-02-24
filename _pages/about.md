@@ -31,6 +31,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 
 
 # 🔥 News
+- *2026.02*:  🎉🎉 Our TESSERA paper was accepted by CVPR 2026.
 - *2026.01*:  🎉🎉 I was honored to be invited to the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/) (to be held in Geneva, Switzerland, in July 2026), where I will present TESSERA-related works.
 - *2025.12*:  🎉🎉 I was honored to be invited by IEEE GRSS to give a talk about TESSERA. Information and recording can be found [here](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/).
 - *2025.11*:  🎉🎉 I was invited as a keynote speaker to the Open-Earth-Monitor Global Workshop 2026, which will be held in Barcelona, Spain, from 7–9 October 2026. The event is co-hosted by CREAF and the OpenGeoHub Foundation under the Open-Earth-Monitor-Cyberinfrastructure (OEMC) project.
@@ -44,7 +45,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/tessera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/tessera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](https://arxiv.org/abs/2506.20380)
@@ -56,6 +57,19 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 - We trained a 1.4B model to extract time-series spectral features from satellite images.
 - We are releasing 2.5PB of global 10m-resolution earth embeddings from 2017-2025.
 - Researchers from over 50 groups worldwide are using TESSERA.
+- Accepted by CVPR 2026.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review (RSE)</div><img src='images/tessera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Applications of the TESSERA Geospatial Foundation Model to Diverse Environmental Mapping Tasks
+
+**Zhengpeng Feng**, Clement Atzberger, Sadiq Jaffer, Jovana Knezevic, Silja Sormunen, Robin Young, Madeline C. Lisaius, Markus Immitzer, Toby Jackson, James Ball, David A. Coomes, Anil Madhavapeddy, Andrew Blake, Srinivasan Keshav
+
+- Under review at Remote Sensing of Environment (RSE).
+- Extension of the CVPR 2026 TESSERA paper with additional downstream tasks and more detailed analysis.
 </div>
 </div>
 
