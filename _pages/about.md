@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the University of Electronic Science and Technology of China (UESTC) with a Bachelor of Engineering in Spatial Informatics and Digitalized Technology. After that, I joined the [Energy and Environment Group (EEG)](https://www.cst.cam.ac.uk/research/eeg) in the Department of Computer Science and Technology, University of Cambridge, as an Undergraduate Research Assistant under the supervision of my advisor, [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page). Now, I am a PhD student under his supervision.
+I graduated from the University of Electronic Science and Technology of China (UESTC) with a Bachelor of Engineering in Spatial Informatics and Digitalized Technology. After that, I joined the [Energy and Environment Group (EEG)](https://www.cst.cam.ac.uk/research/eeg) in the Department of Computer Science and Technology, University of Cambridge, as an Undergraduate Research Assistant under the supervision of my advisor, [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page). Now, I am a PhD student under his supervision. 
 
 My research interest lies at the intersection of AI and Earth Science. I am particularly interested in developing Self-Supervised Learning (SSL) algorithms for remote sensing imagery.
 
