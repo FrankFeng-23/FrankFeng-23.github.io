@@ -61,7 +61,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review (RSE)</div><img src='images/tessera.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review (RSE)</div><img src='images/tessera_rse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Applications of the TESSERA Geospatial Foundation Model to Diverse Environmental Mapping Tasks
