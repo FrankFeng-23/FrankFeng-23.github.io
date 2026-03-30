@@ -19,7 +19,7 @@ redirect_from:
 
 I graduated from the University of Electronic Science and Technology of China (UESTC) with a Bachelor of Engineering in Spatial Informatics and Digitalized Technology. After that, I joined the [Energy and Environment Group (EEG)](https://www.cst.cam.ac.uk/research/eeg) in the Department of Computer Science and Technology, University of Cambridge, as an Undergraduate Research Assistant under the supervision of my advisor, [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page). Now, I am a PhD student under his supervision.
 
-My research interest lies at the intersection of AI and Earth Science. I am particularly interested in developing Self-Supervised Learning (SSL) algorithms for remote sensing imagery.
+My research interest lies at the intersection of AI and Earth Science. I am particularly interested in developing Self-Supervised Learning (SSL) algorithms for remote sensing imagery. 
 
 I am also the co-founder and president of the [China Artificial Intelligence Association (Cambridge)](https://www.cambridgesu.co.uk/organisation/26373/). We are dedicated to creating a platform for AI communication that integrates academia and industry, connecting universities in China and the UK to build a cross-national AI talent ecosystem. 
 
