@@ -157,6 +157,7 @@ James G.C. Ball, Jana Annika Wicklein, **Zhengpeng Feng**, Jovana Knezevic, Sadi
 
 # 💬 Invited Talks
 - *2026.07*, TESSERA, AI for Good Global Summit, Geneva, Switzerland (oral presentation). | [\[link\]](https://aiforgood.itu.int/summit26/)
+- *2026.07*, TESSERA v2, Photogrammetry and Remote Sensing (PRS) Group, ETH Zurich.
 - *2025.12*, TESSERA: Precomputed Fair Global Pixel Embeddings for Earth Representation and Analysis, IEEE GRSS. | [\[link\]](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/) 
 - *2025.12*, TESSERA, RISE. | [\[video\]](https://www.youtube.com/watch?v=AQhzSBxvhVM)
 - *2025.10*, TESSERA, GEDI Group, University of Maryland. | [\[link\]](https://gedi.umd.edu/mission/mission-team/)
