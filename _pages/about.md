@@ -34,6 +34,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 - *2026.07*:  🎉🎉 Our paper "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests" was published in [Science of Remote Sensing](https://www.sciencedirect.com/science/article/pii/S2666017226001045).
 - *2026.06*:  🎉🎉 TESSERA was featured by the [European Space Agency (ESA)](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth): "Tessera AI model offers accessible way to view Earth".
 - *2026.06*:  🎉🎉 TESSERA made its [CVPR 2026 debut](https://geotessera.org/news/2026-06-04-cvpr-earth-intelligence) in Denver.
+- *2026.06*:  🎉🎉 Fresh blood for TESSERA! Two postdoctoral researchers and an assistant professor joined the team — welcome [Silja Sormunen](https://geotessera.org/blog/2026-07-11-new-faces-silja-sormunen), [Jingtao Li](https://geotessera.org/blog/2026-07-11-new-faces-jingtao-li), and [Kyle Gao](https://geotessera.org/blog/2026-07-21-new-faces-kyle-gao).
 - *2026.02*:  🎉🎉 Our TESSERA paper was accepted by CVPR 2026.
 - *2026.01*:  🎉🎉 I was honored to be invited to the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/), held in Geneva, Switzerland, in July 2026, to present TESSERA-related works.
 - *2025.12*:  🎉🎉 I was honored to be invited by IEEE GRSS to give a talk about TESSERA. Information and recording can be found [here](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/).
