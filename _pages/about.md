@@ -23,32 +23,62 @@ My research interest lies at the intersection of AI and Earth Science. I am part
 
 I am also the co-founder and president of the [China Artificial Intelligence Association (Cambridge)](https://www.cambridgesu.co.uk/organisation/26373/). We are dedicated to creating a platform for AI communication that integrates academia and industry, connecting universities in China and the UK to build a cross-national AI talent ecosystem. 
 
-My main work at present is developing a remote sensing foundation model called [TESSERA](https://geotessera.org/). We have found some exciting results.
+My main work at present is developing a remote sensing foundation model called [TESSERA](https://geotessera.org/). We have recently released [TESSERA v2](https://arxiv.org/abs/2607.03949), together with its [code](https://github.com/ucam-eo/tessera) and [model weights](https://huggingface.co/geotessera). We have found some exciting results.
 
 We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n), the fastest artificial intelligence supercomputer at Cambridge, for their generous support in this project. We also acknowledge the support from [AMD](https://www.amd.com/en.html), [Vultr](https://www.vultr.com/), [Microsoft AI For Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/), [dClimate](https://www.dclimate.net/), and [Amazon Web Services (AWS)](https://aws.amazon.com/). This work would not have been possible without their computational resources and technical assistance.
 
 
 # 🔥 News
+- *2026.07*:  🎉🎉 I gave an oral presentation on TESSERA at the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/) in Geneva, Switzerland.
+- *2026.07*:  🎉🎉 We released [TESSERA v2](https://arxiv.org/abs/2607.03949)! The preprint, the [code](https://github.com/ucam-eo/tessera), and the distilled [model weights](https://huggingface.co/geotessera) are all publicly available. We ran 395 pretraining runs on 1024 Nvidia H100 GPUs to work out how pixel-wise Earth foundation models scale.
+- *2026.07*:  🎉🎉 Our paper "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests" was published in [Science of Remote Sensing](https://www.sciencedirect.com/science/article/pii/S2666017226001045).
+- *2026.06*:  🎉🎉 TESSERA was featured by the [European Space Agency (ESA)](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Tessera_AI_model_offers_accessible_way_to_view_Earth): "Tessera AI model offers accessible way to view Earth".
+- *2026.06*:  🎉🎉 TESSERA made its [CVPR 2026 debut](https://geotessera.org/news/2026-06-04-cvpr-earth-intelligence) in Denver.
 - *2026.02*:  🎉🎉 Our TESSERA paper was accepted by CVPR 2026.
-- *2026.01*:  🎉🎉 I was honored to be invited to the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/) (to be held in Geneva, Switzerland, in July 2026), where I will present TESSERA-related works.
+- *2026.01*:  🎉🎉 I was honored to be invited to the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/), held in Geneva, Switzerland, in July 2026, to present TESSERA-related works.
 - *2025.12*:  🎉🎉 I was honored to be invited by IEEE GRSS to give a talk about TESSERA. Information and recording can be found [here](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/).
 - *2025.11*:  🎉🎉 I was invited as a keynote speaker to the Open-Earth-Monitor Global Workshop 2026, which will be held in Barcelona, Spain, from 7–9 October 2026. The event is co-hosted by CREAF and the OpenGeoHub Foundation under the Open-Earth-Monitor-Cyberinfrastructure (OEMC) project.
 - *2025.09*:  🎉🎉 I was honored to participate in the 13th Heidelberg Laureate Forum as a young researcher and presented the TESSERA work ([Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/)).
 - *2025.07*:  🎉🎉 We have open-sourced the inference code for [TESSERA](https://github.com/ucam-eo/tessera?tab=readme-ov-file) and the code for using embeddings in downstream tasks ([GeoTessera](https://github.com/ucam-eo/geotessera)). We will be rolling out a global 10m resolution annual embedding product in the coming months.
+
+<details class="news-more">
+<summary><span class="news-more-show">Show older news</span><span class="news-more-hide">Hide older news</span></summary>
+<div class="news-more-body" markdown="1">
+
 - *2025.06*:  🎉🎉 We have released the preprint of our latest work, [TESSERA](https://arxiv.org/abs/2506.20380). We trained a 14B model to extract time-series spectral features from satellite images.
 - *2025.03*:  🎉🎉 Our app, GreenLens, won the [Better Future Award](https://www.cst.cam.ac.uk/using-ai-see-wood-trees) from the Cambridge Ring!
 - *2025.02*:  🎉🎉 We published "SPREAD: A large-scale, high-fidelity synthetic dataset for multiple forest vision tasks" in Ecological Informatics. We used Unreal Engine 5 to create the most realistic synthetic data for 2D and 3D vision tasks in forests.
 - *2024.10*:  🎉🎉 I am thrilled to be fully funded to join the EEG, Department of Computer Science and Technology, University of Cambridge, as a PhD student.
 - *2024.09*:  🎉🎉 "An app for tree trunk diameter estimation from coarse optical depth maps," was accepted by Ecological Informatics.
 
+</div>
+</details>
+
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/teaser_figure_v2_paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TESSERA v2: Scaling Pixel-wise Earth Foundation Models](https://arxiv.org/abs/2607.03949)
+
+[[**Tessera**]](https://github.com/ucam-eo/tessera)![](https://img.shields.io/github/stars/ucam-eo/tessera?style=social)&nbsp;&nbsp;&nbsp;[[**GeoTessera**]](https://github.com/ucam-eo/geotessera)![](https://img.shields.io/github/stars/ucam-eo/geotessera?style=social)&nbsp;&nbsp;&nbsp;[[**Models**]](https://huggingface.co/geotessera)![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-geotessera-yellow)&nbsp;&nbsp;&nbsp;![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+**Zhengpeng Feng**, Sadiq Jaffer, Ira Shokar, Jovana Knezevic, Mark Elvers, Clement Atzberger, Robin Young, Aneesh Naik, Niall Robinson, Andrew Blake, David Coomes, Anil Madhavapeddy, Srinivasan Keshav
+
+- The largest controlled scaling study for Earth observation to date: 395 pretraining runs on 1024 Nvidia H100 GPUs, each evaluated on 15 downstream tasks.
+- Pretraining loss barely predicts downstream performance (absolute Pearson correlation below 0.2), so selecting models by loss wastes a large share of the compute. As the budget grows, the encoder and the data should grow together while the projector stays fixed.
+- We distil our 0.5B/1B/2B teachers into compact students: the 21M-parameter TESSERA v2-1B-M outperforms all open and proprietary models tested, some orders of magnitude larger.
+- The students produce Matryoshka embeddings — a 16-dimensional prefix keeps 92% of the full 128-dimensional performance at 1/8 of the storage.
+- Preprint, code, and model weights are all publicly released.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/tessera.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TESSERA: Temporal Embeddings of Surface Spectra for Earth Representation and Analysis](https://arxiv.org/abs/2506.20380)
 
-[[**Tessera**]](https://github.com/ucam-eo/tessera)![](https://img.shields.io/github/stars/ucam-eo/tessera?style=social)&nbsp;&nbsp;&nbsp;[[**GeoTessera**]](https://github.com/ucam-eo/geotessera)![](https://img.shields.io/github/stars/ucam-eo/geotessera?style=social)&nbsp;&nbsp;&nbsp;![PyPiVersion](https://img.shields.io/pypi/v/geotessera?label=PyPI%20version&color=blue)&nbsp;&nbsp;&nbsp;![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[[**Tessera**]](https://github.com/ucam-eo/tessera)![](https://img.shields.io/github/stars/ucam-eo/tessera?style=social)&nbsp;&nbsp;&nbsp;[[**GeoTessera**]](https://github.com/ucam-eo/geotessera)![](https://img.shields.io/github/stars/ucam-eo/geotessera?style=social)&nbsp;&nbsp;&nbsp;[[**Models**]](https://huggingface.co/geotessera)![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-geotessera-yellow)&nbsp;&nbsp;&nbsp;![PyPiVersion](https://img.shields.io/pypi/v/geotessera?label=PyPI%20version&color=blue)&nbsp;&nbsp;&nbsp;![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 **Zhengpeng Feng**, Clement Atzberger, Sadiq Jaffer, Jovana Knezevic, Silja Sormunen, Robin Young, Madeline C. Lisaius, Markus Immitzer, Toby Jackson, James Ball, David A. Coomes, Anil Madhavapeddy, Andrew Blake, Srinivasan Keshav
 
@@ -68,6 +98,20 @@ Applications of the TESSERA Geospatial Foundation Model to Diverse Environmental
 
 - Under review at Remote Sensing of Environment (RSE).
 - Extension of the CVPR 2026 TESSERA paper with additional downstream tasks and more detailed analysis.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Remote Sens. 2026</div><img src='images/1-s2.0-S2666017226001045-gr2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests](https://www.sciencedirect.com/science/article/pii/S2666017226001045)
+
+James G.C. Ball, Jana Annika Wicklein, **Zhengpeng Feng**, Jovana Knezevic, Sadiq Jaffer, Anil Madhavapeddy, Clement Atzberger, Michele Dalponte, David A. Coomes
+
+- We evaluate two geospatial foundation model embeddings, TESSERA and AlphaEarth, for mapping 18 tree species and groups in a demanding mountain landscape (Trentino, Italy).
+- The embeddings consistently beat conventional Sentinel-1+2 composites (weighted F1 = 0.83 vs. 0.80), approaching saturation with only 5% of the training parcels and organising species into ecologically meaningful groupings.
+- Realising this advantage requires a nonlinear classifier, and training with parcel-level species proportions as soft labels improves minority-species discrimination.
+- Temporal transfer across years remains the bottleneck, shifting the challenge from feature engineering toward the availability, quality, and temporal alignment of reference data.
 </div>
 </div>
 
@@ -113,6 +157,7 @@ Applications of the TESSERA Geospatial Foundation Model to Diverse Environmental
 - *2019.09 - 2023.06*, B.Eng. in Spatial Informatics and Digitalized Technology, University of Electronic Science and Technology of China (UESTC).
 
 # 💬 Invited Talks
+- *2026.07*, TESSERA, AI for Good Global Summit, Geneva, Switzerland (oral presentation). | [\[link\]](https://aiforgood.itu.int/summit26/)
 - *2025.12*, TESSERA: Precomputed Fair Global Pixel Embeddings for Earth Representation and Analysis, IEEE GRSS. | [\[link\]](https://www.grss-ieee.org/event/tessera-precomputed-fair-global-pixel-embeddings-for-earth-representation-and-analysis/) 
 - *2025.12*, TESSERA, RISE. | [\[video\]](https://www.youtube.com/watch?v=AQhzSBxvhVM)
 - *2025.10*, TESSERA, GEDI Group, University of Maryland. | [\[link\]](https://gedi.umd.edu/mission/mission-team/)

@@ -107,3 +107,49 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Collapsible "older news" block: the newest items stay visible, the rest
+   fold away behind a toggle. Uses native <details>, so it still works with
+   JavaScript disabled. */
+details.news-more {
+
+    > summary {
+        cursor: pointer;
+        display: inline-block;
+        list-style: none;
+        color: #00369f;
+        font-size: .85em;
+        padding: .2em 0;
+        -webkit-user-select: none;
+        user-select: none;
+
+        /* Hide the default disclosure triangle so we can supply our own. */
+        &::-webkit-details-marker { display: none; }
+        &::marker { content: ""; }
+
+        &::before {
+            content: "\25B8\00a0"; /* ▸ */
+        }
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    /* Swap the label text based on the open state, without any JS. */
+    .news-more-hide { display: none; }
+
+    &[open] > summary {
+        &::before {
+            content: "\25BE\00a0"; /* ▾ */
+        }
+
+        .news-more-show { display: none; }
+        .news-more-hide { display: inline; }
+    }
+
+    /* Keep the revealed items visually continuous with the list above. */
+    .news-more-body > ul {
+        margin-top: .5em;
+    }
+}
