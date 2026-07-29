@@ -65,11 +65,10 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 
 **Zhengpeng Feng**, Sadiq Jaffer, Ira Shokar, Jovana Knezevic, Mark Elvers, Clement Atzberger, Robin Young, Aneesh Naik, Niall Robinson, Andrew Blake, David Coomes, Anil Madhavapeddy, Srinivasan Keshav
 
-- The largest controlled scaling study for Earth observation to date: 395 pretraining runs on 1024 Nvidia H100 GPUs, each evaluated on 15 downstream tasks.
-- Pretraining loss barely predicts downstream performance (absolute Pearson correlation below 0.2), so selecting models by loss wastes a large share of the compute. As the budget grows, the encoder and the data should grow together while the projector stays fixed.
-- We distil our 0.5B/1B/2B teachers into compact students: the 21M-parameter TESSERA v2-1B-M outperforms all open and proprietary models tested, some orders of magnitude larger.
-- The students produce Matryoshka embeddings — a 16-dimensional prefix keeps 92% of the full 128-dimensional performance at 1/8 of the storage.
-- Preprint, code, and model weights are all publicly released.
+- The largest controlled scaling study for Earth observation to date: 395 pretraining runs on 1024 Nvidia H100 GPUs.
+- Pretraining loss barely predicts downstream performance, so selecting models by loss wastes compute.
+- Our distilled 21M-parameter TESSERA v2-1B-M outperforms all open and proprietary models tested.
+- Matryoshka embeddings: a 16-dimensional prefix keeps 92% of the full performance at 1/8 of the storage.
 </div>
 </div>
 
@@ -84,7 +83,7 @@ We would like to express our gratitude to [DAWN](https://www.hpc.cam.ac.uk/d-w-n
 
 - We trained a 1.4B model to extract time-series spectral features from satellite images.
 - We are releasing 2.5PB of global 10m-resolution earth embeddings from 2017-2025.
-- Researchers from over 50 groups worldwide are using TESSERA.
+- Researchers from over 200 groups worldwide are using TESSERA.
 - Accepted by CVPR 2026.
 </div>
 </div>
