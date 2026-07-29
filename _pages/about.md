@@ -163,4 +163,4 @@ James G.C. Ball, Jana Annika Wicklein, **Zhengpeng Feng**, Jovana Knezevic, Sadi
 - *2024.06*, An App for Tree Trunk Diameter Estimation from Coarse Optical Depth Maps. | [\[video\]](https://www.youtube.com/watch?v=ePLKoPkt_CA)
 
 # 💻 Supervisions
-- *2025.03 - 2025.06*, [Part IB CST Artificial Intelligence](https://www.cl.cam.ac.uk/teaching/2425/ArtInt/), University of Cambridge.
+- *2025, 2026*, [Part IB CST Artificial Intelligence](https://www.cl.cam.ac.uk/teaching/2425/ArtInt/), University of Cambridge.
