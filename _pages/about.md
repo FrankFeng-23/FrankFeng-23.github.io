@@ -225,5 +225,11 @@ Operational HPC lessons learnt training the Tessera geospatial foundation model 
 - *2025.10*, TESSERA, GEDI Group, University of Maryland. | [\[link\]](https://gedi.umd.edu/mission/mission-team/)
 - *2024.06*, An App for Tree Trunk Diameter Estimation from Coarse Optical Depth Maps. | [\[video\]](https://www.youtube.com/watch?v=ePLKoPkt_CA)
 
+# 💼 Internships
+- *2026.09 - 2026.11*, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/en), AI Infra Team, Beijing, China.
+  - Architecture optimisation for LLM + TESSERA.
+  - Architecture optimisation of TESSERA.
+  - Large-scale alignment of Earth embeddings and text.
+
 # 💻 Supervisions
 - *2025, 2026*, [Part IB CST Artificial Intelligence](https://www.cl.cam.ac.uk/teaching/2425/ArtInt/), University of Cambridge.
