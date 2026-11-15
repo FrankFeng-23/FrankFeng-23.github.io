@@ -163,7 +163,7 @@ Ben G. Weinstein, Josh Veitch-Michaelis, ..., **Zhengpeng Feng**, ..., et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/hpc_teaser_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Operational HPC lessons learnt training the Tessera geospatial foundation model series
@@ -203,7 +203,7 @@ Operational HPC lessons learnt training the Tessera geospatial foundation model 
 </div>
 
 # 🎖 Honors and Awards
-- *2026.11* Early Career Researcher (ECR), Nature Portfolio journals
+- *2026.10* Early Career Researcher (ECR), Nature Portfolio journals
 - *2026.11* OpenUK Awards, Open Source Software Project of the Year (TESSERA team)
 - *2025.09* Heidelberg Laureate Forum Young Researcher
 - *2025.03* Cambridge Ring Better Future Award
