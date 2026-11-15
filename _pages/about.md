@@ -157,9 +157,13 @@ Jovana Knezevic, Clement Atzberger, **Zhengpeng Feng**, Adam F. A. Pellegrini, S
 
 [MillionTrees: A global benchmark for tree detection across geography, sensor, and annotation geometry](https://www.biorxiv.org/content/10.1101/2026.10.30.762845v1)
 
+[[**Code**]](https://github.com/weecology/MillionTrees) ![](https://img.shields.io/github/stars/weecology/MillionTrees?style=social)&nbsp;&nbsp;&nbsp;[[**Docs**]](https://milliontrees.idtrees.org/en/latest/datasets.html)
+
 Ben G. Weinstein, Josh Veitch-Michaelis, ..., **Zhengpeng Feng**, ..., et al.
 
-- A global benchmark for airborne tree detection, spanning box, point, and polygon annotations across many geographies and sensors.
+- A global benchmark for airborne tree detection, aiming at a single model that works across geography, sensor, and annotation geometry.
+- Three datasets (TreeBoxes, TreePoints, and TreePolygons) with over 3.6 million annotations across 73,000+ images from 32 sources.
+- Three evaluation settings: within-distribution, cross-geometry, and zero-shot on entirely held-out sources.
 </div>
 </div>
 
