@@ -21,14 +21,21 @@ I graduated from the University of Electronic Science and Technology of China (U
 
 My research interest lies at the intersection of AI and Earth Science. I am particularly interested in developing Self-Supervised Learning (SSL) algorithms for remote sensing imagery. 
 
+I serve as a reviewer for *Nature Machine Intelligence*, *Nature Sensors*, ICLR, CVPR, *Remote Sensing of Environment (RSE)*, and *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*.
+
 I am also the co-founder and president of the [China Artificial Intelligence Association (Cambridge)](https://www.cambridgesu.co.uk/organisation/26373/). We are dedicated to creating a platform for AI communication that integrates academia and industry, connecting universities in China and the UK to build a cross-national AI talent ecosystem. 
 
 My main work at present is developing a remote sensing foundation model called [TESSERA](https://geotessera.org/). We have recently released [TESSERA v2](https://arxiv.org/abs/2607.03949), together with its [code](https://github.com/ucam-eo/tessera) and [model weights](https://huggingface.co/geotessera). We have found some exciting results.
 
 We would like to express our gratitude to [Isambard-AI](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/), the UK's most powerful AI supercomputer, and [DAWN](https://www.hpc.cam.ac.uk/d-w-n), the fastest artificial intelligence supercomputer at Cambridge, for their generous support in this project. We also acknowledge the support from [NVIDIA](https://www.nvidia.com/en-us/), [AMD](https://www.amd.com/en.html), [Vultr](https://www.vultr.com/), [Microsoft AI For Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/), [dClimate](https://www.dclimate.net/), and [Amazon Web Services (AWS)](https://aws.amazon.com/). This work would not have been possible without their computational resources and technical assistance.
 
+Outside of research, I am a big fan of FPS games. Over the years I have reached Top 500 on the China server of [Overwatch](https://overwatch.blizzard.com/en-us/) (Master in all three roles), Diamond in [PUBG](https://pubg.com/en/), Master in [Apex Legends](https://www.ea.com/games/apex-legends), and Delta Force Pinnacle in [Delta Force](https://www.playdeltaforce.com/en/).
+
 
 # 🔥 News
+- *2026.11*:  🎉🎉 TESSERA won the open source software project of the year at the 7th [OpenUK Awards](https://openuk.uk/awards/), held at the House of Commons in London! ([more](https://anil.recoil.org/notes/openuk-tessera-award))
+- *2026.11*:  🎉🎉 We released the preprint of [E²Forecast](https://arxiv.org/abs/2611.02211), "Forecasting Earth Surface Change in Embedding Space", together with its [code](https://github.com/ucam-eo/e2forecast).
+- *2026.09*:  🎉🎉 We released the preprint "[Annual Earth-observation embeddings encode wildfire disturbance and support simplified burned area mapping](https://arxiv.org/abs/2609.25731)".
 - *2026.07*:  🎉🎉 I gave an oral presentation on TESSERA at the [AI for Good Global Summit](https://aiforgood.itu.int/summit26/) in Geneva, Switzerland.
 - *2026.07*:  🎉🎉 We released [TESSERA v2](https://arxiv.org/abs/2607.03949)! The preprint, the [code](https://github.com/ucam-eo/tessera), and the distilled [model weights](https://huggingface.co/geotessera) are all publicly available. We ran 395 pretraining runs on 1024 Nvidia H100 GPUs to work out how pixel-wise Earth foundation models scale.
 - *2026.07*:  🎉🎉 Our paper "Geospatial foundation models enable data-efficient tree species mapping in temperate mountain forests" was published in [Science of Remote Sensing](https://www.sciencedirect.com/science/article/pii/S2666017226001045).
@@ -115,6 +122,58 @@ James G.C. Ball, Jana Annika Wicklein, **Zhengpeng Feng**, Jovana Knezevic, Sadi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/e2forecast.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Forecasting Earth Surface Change in Embedding Space](https://arxiv.org/abs/2611.02211)
+
+[[**Code**]](https://github.com/ucam-eo/e2forecast) ![](https://img.shields.io/github/stars/ucam-eo/e2forecast?style=social)
+
+Jingtao Li, Sadiq Jaffer, Anil Madhavapeddy, Pedro Sousa, Anthony Ortiz, Kyle Gao, **Zhengpeng Feng**, Yanfei Zhong, Kevin White, Srinivasan Keshav
+
+- We argue that forecasting in the embedding space of Earth foundation models is more effective than forecasting raw spectral values, which are corrupted by clouds, shadows, and sensor noise.
+- E²Forecast is a two-branch transformer: a Gaussian branch gives a point forecast with per-dimension uncertainty, and a rectified-flow branch generates forecast ensembles.
+- On Sentinel-1 and Sentinel-2 benchmarks it halves the cosine distance (0.20 to 0.10) and greatly reduces overconfidence.
+- Comparing new observations with forecasts detects anomalous change without labels or retraining, validated on nine remote sensing foundation models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/wildfire_embeddings.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Annual Earth-observation embeddings encode wildfire disturbance and support simplified burned area mapping](https://arxiv.org/abs/2609.25731)
+
+Jovana Knezevic, Clement Atzberger, **Zhengpeng Feng**, Adam F. A. Pellegrini, Srinivasan Keshav, David Coomes
+
+- TESSERA annual embeddings strongly encode wildfire disturbance, so even linear models separate burned from unburned pixels.
+- A single TESSERA embedding matches or exceeds models using paired pre- and post-fire HLS imagery.
+- Applied across California with no California training data, it recovers 97% of the reference burned area and detects more small and medium-sized fires than GABAM or MCD64A1.
+- A model trained on US fires transfers without retraining to 88 European fires (F1 = 0.88).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MillionTrees: A global benchmark for tree detection across geography, sensor, and annotation geometry](https://www.biorxiv.org/content/10.1101/2026.10.30.762845v1)
+
+Ben G. Weinstein, Josh Veitch-Michaelis, ..., **Zhengpeng Feng**, ..., et al.
+
+- A global benchmark for airborne tree detection, spanning box, point, and polygon annotations across many geographies and sensors.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Operational HPC lessons learnt training the Tessera geospatial foundation model series
+
+**Zhengpeng Feng**, Mark Elvers, Sadiq Jaffer, Michael Dales, et al.
+
+- Lessons learnt from operating large-scale HPC systems to train the TESSERA model series.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecological Informatics 2025</div><img src='images/spread.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -144,6 +203,8 @@ James G.C. Ball, Jana Annika Wicklein, **Zhengpeng Feng**, Jovana Knezevic, Sadi
 </div>
 
 # 🎖 Honors and Awards
+- *2026.11* Early Career Researcher (ECR), Nature Portfolio journals
+- *2026.11* OpenUK Awards, Open Source Software Project of the Year (TESSERA team)
 - *2025.09* Heidelberg Laureate Forum Young Researcher
 - *2025.03* Cambridge Ring Better Future Award
 - *2024.06* Robert Sansom Studentship
