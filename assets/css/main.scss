@@ -153,3 +153,13 @@ details.news-more {
         margin-top: .5em;
     }
 }
+/* Small inline icons next to game names in the intro */
+img.game-icon {
+    display: inline-block;
+    width: auto;
+    height: 1.1em;
+    margin: 0 0.25em 0 0;
+    vertical-align: -0.18em;
+    border-radius: 3px;
+    box-shadow: none !important;
+}
