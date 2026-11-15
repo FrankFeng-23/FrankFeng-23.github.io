@@ -152,7 +152,7 @@ Jovana Knezevic, Clement Atzberger, **Zhengpeng Feng**, Adam F. A. Pellegrini, S
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv 2026</div><img src='images/million_tree_teaser_fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MillionTrees: A global benchmark for tree detection across geography, sensor, and annotation geometry](https://www.biorxiv.org/content/10.1101/2026.10.30.762845v1)
@@ -203,8 +203,8 @@ Operational HPC lessons learnt training the Tessera geospatial foundation model 
 </div>
 
 # 🎖 Honors and Awards
-- *2026.10* Early Career Researcher (ECR), Nature Portfolio journals
 - *2026.11* OpenUK Awards, Open Source Software Project of the Year (TESSERA team)
+- *2026.10* Early Career Researcher (ECR), Nature Portfolio journals
 - *2025.09* Heidelberg Laureate Forum Young Researcher
 - *2025.03* Cambridge Ring Better Future Award
 - *2024.06* Robert Sansom Studentship
